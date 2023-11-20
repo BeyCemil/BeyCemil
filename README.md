@@ -6,8 +6,7 @@
 - 📫 How to reach me **uzunkayacemil18@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/dt7clncdsc](https://flowcv.com/resume/dt7clncdsc)
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
