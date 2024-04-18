@@ -1,7 +1,7 @@
 <h1 align="center">Cemil Buğra Uzunkaya</h1>
 <h3 align="center">3D Artist, UI/UX Designer, Game Developer</h3>
 
-- 🌱 I’m currently learning **Unity Library & .Net**
+- 🌱 I’m currently working on Aim Zen
 
 - 📫 How to reach me **uzunkayacemil18@gmail.com**
 
