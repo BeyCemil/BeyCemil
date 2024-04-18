@@ -1,11 +1,11 @@
 <h1 align="center">Cemil Buğra Uzunkaya</h1>
 <h3 align="center">3D Artist, UI/UX Designer, Game Developer</h3>
 
-- 🌱 I’m currently working on Aim Zen
+- I’m currently working on Aim Zen
 
-- 📫 How to reach me **uzunkayacemil18@gmail.com**
+- How to reach me **uzunkayacemil18@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/dt7clncdsc](https://flowcv.com/resume/dt7clncdsc)
+- Know about my experiences [https://flowcv.com/resume/dt7clncdsc](https://flowcv.com/resume/dt7clncdsc)
 
   
 <p align="left">
